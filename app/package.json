@@ -1,0 +1,22 @@
+{
+  "name": "@nextjs13-template/app",
+  "version": "1.0.1",
+  "private": true,
+  "sideEffects": false,
+  "scripts": {
+    "build": "next build",
+    "dev": "cross-env DEBUG=app:* next --port 3000",
+    "compile": "tsc -p .",
+    "start": "next start --port 3000",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "library": "*"
+  },
+  "devDependencies": {
+    "config": "*"
+  },
+  "engines": {
+    "node": "16"
+  }
+}

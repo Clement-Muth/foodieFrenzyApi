@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://Nextjs13Template.com
+
+# Sitemaps
+Sitemap: https://Nextjs13Template.com/sitemap.xml
+Sitemap: https://Nextjs13Template.com/server-sitemap-index.xml

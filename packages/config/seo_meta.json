@@ -1,0 +1,25 @@
+{
+  "title": "Nextjs13Template",
+  "titleTemplate": "%s - Nextjs13Template",
+  "description": "Nextjs13Template description",
+  "openGraph": {
+    "title": "Nextjs13Template",
+    "description": "Nextjs13Template description",
+    "type": "website",
+    "url": "",
+    "site_name": "Nextjs13Template",
+    "images": [
+      {
+        "url": "",
+        "width": "1200",
+        "height": "630",
+        "alt": "Nextjs13Template"
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "@Nextjs13Template",
+    "site": "@Nextjs13Template",
+    "cardType": "summary_large_image"
+  }
+}
