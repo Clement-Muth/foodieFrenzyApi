@@ -1,0 +1,25 @@
+{
+  "title": "foodie-frenzy",
+  "titleTemplate": "%s - foodie-frenzy",
+  "description": "FoodieFrenzyApi",
+  "openGraph": {
+    "title": "FoodieFrenzyApi",
+    "description": "FoodieFrenzyApi",
+    "type": "website",
+    "site_name": "FoodieFrenzyApi",
+    "url": "",
+    "images": [
+      {
+        "url": "",
+        "width": "1200",
+        "height": "630",
+        "alt": "FoodieFrenzyApi"
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "@FoodieFrenzyApi",
+    "site": "@FoodieFrenzyApi",
+    "cardType": "summary_large_image"
+  }
+}
